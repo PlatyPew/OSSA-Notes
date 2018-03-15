@@ -1146,8 +1146,3 @@ IP addresses to remember!
 
 # Extras
 With that, you have unofficially completed the Organizational Systems Security Analyst! Now, go and do it for realz.
-
-# Credits
-**ThinkSecure™ Pte Ltd**
-
-Take your certification here: http://securitystartshere.org/page-training-ossa.htm
